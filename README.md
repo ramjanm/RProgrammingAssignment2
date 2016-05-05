@@ -23,7 +23,7 @@ makeVector <- function(x = numeric()) {
         getmean <- function() m
         list(set = set, get = get,
              setmean = setmean,
-             getmean = getmean)
+             getmean = getmean) 
 }
 
 
