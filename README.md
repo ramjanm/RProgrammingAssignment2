@@ -1,5 +1,8 @@
 # Introduction -Programming Assignment 2: Lexical Scoping
 
+ Caching the Inverse of a Matrix in R
+ Matrix inversion is usually a costly computation and there may be some benefit to caching the inverse of a matrix rather than compute it repeatedly.
+
 The following code demonstrates how to use the cachematrix.R  R script.
 
 Test Case 1
